@@ -1,0 +1,31 @@
+{
+  "name": "data-overlay",
+  "version": "0.1.0",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "ipapi.co": "^0.3.0",
+    "mapbox-gl": "^1.11.1",
+    "plotly.js": "^2.12.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-ipgeolocation": "^1.4.0",
+    "react-plotly.js": "^2.5.1",
+    "react-scripts": "^3.4.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
